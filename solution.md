@@ -58,6 +58,9 @@ For example, when using `transaction.atomic()`, we ensure that everything runs w
 
 <img width="540" alt="image" src="https://github.com/user-attachments/assets/30f55aa2-38a7-42d9-9562-d5cf6c320a86">
 
+<img width="549" alt="image" src="https://github.com/user-attachments/assets/22a64924-cede-444f-b419-64c5223682ce">
+
+
 
 ---
 
